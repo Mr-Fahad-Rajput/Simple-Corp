@@ -9,7 +9,7 @@ const app = express();
 
 dotenv.config({path: './confiq.env'});
 require('./database/connection');
-const port = 5000;
+const port = 3001;
 
 const Users = require('./Models/userSchema');
 const Message = require('./Models/msgSchema');
