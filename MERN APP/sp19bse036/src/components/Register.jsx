@@ -93,7 +93,7 @@ const Register = () => {
                   onChange={handleInput}
                 />
                 <div id="emailHelp" className="form-text">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab, dolore.
+                  Enter Email Here.
                 </div>
               </div>
               <div className="mb-3">
@@ -116,7 +116,7 @@ const Register = () => {
                   id="exampleCheck1"
                 />
                 <label className="form-check-label" htmlFor="exampleCheck1">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente, provident?
+                 Agree Terms And Conditions
                 </label>
               </div>
               <button type="submit" className="btn btn-outline-primary w-100 mt-4 rounded-pill">

@@ -77,7 +77,7 @@ const Footer = () => {
               <div className="col-4 offset-1">
                 <form>
                   <h5>Subscribe to our newsletter</h5>
-                  <p>Monthly digest of whats new and exciting from us.</p>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, eum.</p>
                   <div className="d-flex w-100 gap-2">
                     <label htmlFor="newsletter1" className="visually-hidden">
                       Email address
