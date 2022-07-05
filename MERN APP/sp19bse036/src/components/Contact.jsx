@@ -40,7 +40,8 @@ const Contact = () => {
       if(res.status === 400 || !res){
         window.alert("Message Not Sent. Try Again Later")
       }else{
-        
+        // You need to Restart the Server for Proxy Works
+        // Now Try Again
         window.alert("Message Sent");
         setMsg({
           name : "",
@@ -62,7 +63,7 @@ const Contact = () => {
             <div className="col-12">
               <h3 className="fs-5 text-center mb-0">Contact Us</h3>
               <h1 className="display-6 text-center mb-4">
-                Something Something
+                Have Some <b>Question?</b>
               </h1>
               <hr className="w-25 mx-auto" />
             </div>

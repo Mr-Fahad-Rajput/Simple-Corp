@@ -81,7 +81,7 @@ const Login = () => {
                   onChange={handleChange}
                 />
                 <div id="emailHelp" className="form-text">
-                  Enter Email
+                  We'll never share your email with anyone else.
                 </div>
               </div>
               <div className="mb-3">
