@@ -6,10 +6,16 @@ const cookieParser = require('cookie-parser');
 
 const app = express();
 
+app.use(express.static(path.join(__dirname, "/sp19bse036/build")));
+
+app.get("*" , (req , res) => {
+ res.sendFile(path.join(__dirname + "/sp19bse036/build/index.html" ));
+});
+
 
 dotenv.config({path: './confiq.env'});
 require('./database/connection');
-const port = 3001;
+const port = 5000;
 
 const Users = require('./Models/userSchema');
 const Message = require('./Models/msgSchema');
