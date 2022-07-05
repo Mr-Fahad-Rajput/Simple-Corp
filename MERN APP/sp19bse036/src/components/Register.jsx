@@ -23,14 +23,10 @@ const Register = () => {
   // Handle Submit
   const handleSubmit = async (event)=>{
     event.preventDefault();
-    // Object DeStructuring
-    // Store Object Data into Variables
+    
     const {username, email, password} = user;
     try {
-      //It is Submitted on port 3000 by default
-      // Which is Front End but we need to 
-      // Submit it on Backend which is on 
-      // Port 3001. So we need Proxy.
+    
       const res = await fetch('/register', {
         method : "POST",
         headers : {
@@ -44,8 +40,7 @@ const Register = () => {
       if(res.status === 400 || !res){
         window.alert("Already Used Details")
       }else{
-        // You need to Restart the Server for Proxy Works
-        // Now Try Again
+        
         window.alert("Registered Successfully");
         history.push('/login')
       }
@@ -98,7 +93,7 @@ const Register = () => {
                   onChange={handleInput}
                 />
                 <div id="emailHelp" className="form-text">
-                  We'll never share your email with anyone else.
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab, dolore.
                 </div>
               </div>
               <div className="mb-3">
@@ -121,7 +116,7 @@ const Register = () => {
                   id="exampleCheck1"
                 />
                 <label className="form-check-label" htmlFor="exampleCheck1">
-                  I Agree Terms and Conditions
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente, provident?
                 </label>
               </div>
               <button type="submit" className="btn btn-outline-primary w-100 mt-4 rounded-pill">
