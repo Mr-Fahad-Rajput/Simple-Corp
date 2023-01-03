@@ -15,7 +15,7 @@ import { useEffect, useState } from 'react';
 
 function App() {
 
-  // Check If User is Logged In
+ // Check If User is Logged In
   const [auth, setauth] = useState(false);
   const [auth1, setauth1] = useState(true);
 

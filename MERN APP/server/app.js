@@ -3,6 +3,7 @@ const express = require('express');
 const bcryptjs = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const cookieParser = require('cookie-parser');
+const path = require('path');
 
 const app = express();
 

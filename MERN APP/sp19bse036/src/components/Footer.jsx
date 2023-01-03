@@ -1,6 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 
+
 const Footer = () => {
   return (
     <div>
@@ -9,7 +10,7 @@ const Footer = () => {
           <footer className="py-5">
             <div className="row">
               <div className="col-3">
-                <h4>FINE ART</h4>
+                <h4>Fahad Rajput <br />SP19-BSE-036 </h4>
               </div>
 
               <div className="col-2">
@@ -100,7 +101,7 @@ const Footer = () => {
             </div>
 
             <div className="d-flex justify-content-between pt-4 mt-4 border-top">
-              <p>© 2021 Company, Inc. All rights reserved.</p>
+              <p>Submitted To : <br />M. Usman Akram </p>
               <ul className="list-unstyled d-flex">
                 <li className="ms-3">
                   <NavLink className="link-light" to="#">
