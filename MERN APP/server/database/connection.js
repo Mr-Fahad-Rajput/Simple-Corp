@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 require('dotenv').config({ path: './config.env' });
-const database = "mongodb+srv://mr_fahad_rajput:whETr8kX@cluster0.y20to.mongodb.net/sp19bse036?retryWrites=true&w=majority";
+const database = "mongodb+srv://mr_fahad_rajput:whETr8kX@cluster0.y20to.mongodb.net/test";
 
 mongoose.connect(database,{
     useNewUrlParser :true,

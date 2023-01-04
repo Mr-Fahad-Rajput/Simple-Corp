@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon app.js",
-    "heruko-postbuild" : "cd sp19bse036 && npm install && npm run build"
+    "heruko-postbuild" : "cd sp19bse036 && npm install && npm run dev"
   },
   "keywords": [],
   "author": "",

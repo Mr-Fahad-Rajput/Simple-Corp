@@ -54,7 +54,7 @@ const Register = () => {
             <div className="container shadow my-5">
         <div className="row justify-content-end">
           <div className="col-md-5 d-flex flex-column align-items-center text-white justify-content-center form order-2">
-            <h1 className="display-4 fw-bolder">Hello, Friend</h1>
+            <h1 className="display-4 fw-bolder">Hello, Gentleman!</h1>
             <p className="lead text-center">Enter Your Details to Register</p>
             <h5 className="mb-4">OR</h5>
             <NavLink

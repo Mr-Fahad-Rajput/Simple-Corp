@@ -23,10 +23,7 @@ const Contact = () => {
     // Store Object Data into Variables
     const {name, email, message} = msg;
     try {
-      //It is Submitted on port 3000 by default
-      // Which is Front End but we need to 
-      // Submit it on Backend which is on 
-      // Port 3001. So we need Proxy.
+
       const res = await fetch('/message', {
         method : "POST",
         headers : {
@@ -62,7 +59,7 @@ const Contact = () => {
             <div className="col-12">
               <h3 className="fs-5 text-center mb-0">Contact Us</h3>
               <h1 className="display-6 text-center mb-4">
-                Something Something
+                Send A Message
               </h1>
               <hr className="w-25 mx-auto" />
             </div>

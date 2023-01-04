@@ -14,62 +14,62 @@ const Footer = () => {
               </div>
 
               <div className="col-2">
-                <h5>Section</h5>
+                <h5>Something</h5>
                 <ul className="nav flex-column">
                   <li className="nav-item mb-2">
                     <NavLink to="#" className="nav-link p-0 text-white">
-                      Home
+                    Something
                     </NavLink>
                   </li>
                   <li className="nav-item mb-2">
                     <NavLink to="#" className="nav-link p-0 text-white">
-                      Features
+                    Something
                     </NavLink>
                   </li>
                   <li className="nav-item mb-2">
                     <NavLink to="#" className="nav-link p-0 text-white">
-                      Pricing
+                    Something
                     </NavLink>
                   </li>
                   <li className="nav-item mb-2">
                     <NavLink to="#" className="nav-link p-0 text-white">
-                      FAQs
+                    Something
                     </NavLink>
                   </li>
                   <li className="nav-item mb-2">
                     <NavLink to="#" className="nav-link p-0 text-white">
-                      About
+                    Something
                     </NavLink>
                   </li>
                 </ul>
               </div>
 
               <div className="col-2">
-                <h5>Section</h5>
+                <h5>Something</h5>
                 <ul className="nav flex-column">
                   <li className="nav-item mb-2">
                     <NavLink to="#" className="nav-link p-0 text-white">
-                      Home
+                    Something
                     </NavLink>
                   </li>
                   <li className="nav-item mb-2">
                     <NavLink to="#" className="nav-link p-0 text-white">
-                      Features
+                    Something
                     </NavLink>
                   </li>
                   <li className="nav-item mb-2">
                     <NavLink to="#" className="nav-link p-0 text-white">
-                      Pricing
+                    Something
                     </NavLink>
                   </li>
                   <li className="nav-item mb-2">
                     <NavLink to="#" className="nav-link p-0 text-white">
-                      FAQs
+                    Something
                     </NavLink>
                   </li>
                   <li className="nav-item mb-2">
                     <NavLink to="#" className="nav-link p-0 text-white">
-                      About
+                    Something
                     </NavLink>
                   </li>
                 </ul>
@@ -77,7 +77,7 @@ const Footer = () => {
 
               <div className="col-4 offset-1">
                 <form>
-                  <h5>Subscribe to our newsletter</h5>
+                  <h5>Something</h5>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, eum.</p>
                   <div className="d-flex w-100 gap-2">
                     <label htmlFor="newsletter1" className="visually-hidden">
