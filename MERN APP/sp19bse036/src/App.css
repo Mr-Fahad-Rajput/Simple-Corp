@@ -1,4 +1,7 @@
 /* Home */
+/* *{
+  color: #ffc107;
+} */
 #home{
     background: rgb(0, 101, 219);
     background: linear-gradient(90deg, rgb(0,101,219) 50%, rgba(0, 212, 255, 1) 100%);
@@ -26,14 +29,15 @@
     background: linear-gradient(90deg, rgb(0,101,219) 40%, rgba(0, 212, 255, 1) 100%);
 }
 
-//Dark Mode
+/* Dark Mode */
 #darkmode{
     display: flex;
     justify-content: center;
   }
   
   #darkmode .dark {
-    background-color: #292c35;
+    background-color: #1b1a19;
+    color: #ffc107;
   }
   #darkmode .checkbox {
     opacity: 0;
@@ -42,8 +46,8 @@
   
   #darkmode .label {
     width: 38px;
-    height: 14px;
-    background-color:#111;
+    height: 21px;
+    background-color:#1b1a19;
     display: flex;
     border-radius:50px;
     align-items: center;
@@ -61,6 +65,8 @@
     position: absolute;
     top: 2px;
     left: 2px;
+    right: 2px;
+    bottom: 2px;
     border-radius: 50%;
     transition: transform 0.2s linear;
   }

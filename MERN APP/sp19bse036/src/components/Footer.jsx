@@ -3,6 +3,7 @@ import { NavLink } from "react-router-dom";
 
 
 const Footer = () => {
+
   return (
     <div>
       <footer className="footer text-white">
