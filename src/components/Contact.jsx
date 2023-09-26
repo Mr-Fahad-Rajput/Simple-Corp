@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-
+import contactImg from './contact.jpg'
 const Contact = () => {
 
   const [msg, setMsg] = useState({
@@ -66,7 +66,7 @@ const Contact = () => {
           </div>
           <div className="row">
             <div className="col-md-6">
-              <img src="/assets/contact.jpg" alt="Contact" className="w-75" />
+              <img src={contactImg}alt="Contact" className="w-75" />
             </div>
             <div className="col-md-6">
               <form onSubmit={handleSubmit} method="POST">

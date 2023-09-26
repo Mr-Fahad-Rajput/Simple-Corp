@@ -7,9 +7,8 @@ const Services = () => {
         <div className="container my-5 py-5">
           <div className="row">
             <div className="col-12">
-              <h3 className="fs-5 text-center mb-0">Something</h3>
               <h1 className="display-6 text-center mb-4">
-                 <b>Something</b> 
+                 <b>Services</b> 
               </h1>
               <hr className="w-25 mx-auto" />
             </div>
@@ -19,7 +18,7 @@ const Services = () => {
               <div className="card p-3 ">
                 <div className="card-body text-center">
                     <i className="fa fa-cogs fa-4x mb-4 text-primary"></i>
-                  <h5 className="card-title mb-3 fs-4 fw-bold">Something</h5>
+                  <h5 className="card-title mb-3 fs-4 fw-bold">Market Analysis</h5>
                   <p className="card-text lead">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, a!
                   </p>
@@ -30,7 +29,7 @@ const Services = () => {
               <div className="card p-3 ">
                 <div className="card-body text-center">
                     <i className="fa fa-mobile fa-4x mb-4 text-primary"></i>
-                  <h5 className="card-title mb-3 fs-4 fw-bold">Something</h5>
+                  <h5 className="card-title mb-3 fs-4 fw-bold">Consulting</h5>
                   <p className="card-text lead">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, quis.
                   </p>
@@ -41,7 +40,7 @@ const Services = () => {
               <div className="card p-3 ">
                 <div className="card-body text-center">
                     <i className="fa fa-users fa-4x mb-4 text-primary"></i>
-                  <h5 className="card-title mb-3 fs-4 fw-bold">Something</h5>
+                  <h5 className="card-title mb-3 fs-4 fw-bold">Human Resource</h5>
                   <p className="card-text lead">
                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt, molestias.
                   </p>
@@ -54,7 +53,7 @@ const Services = () => {
               <div className="card p-3 ">
                 <div className="card-body text-center">
                     <i className="fa fa-laptop fa-4x mb-4 text-primary"></i>
-                  <h5 className="card-title mb-3 fs-4 fw-bold">Something</h5>
+                  <h5 className="card-title mb-3 fs-4 fw-bold">Legal Advice</h5>
                   <p className="card-text lead">
                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, mollitia.
                   </p>
@@ -65,7 +64,7 @@ const Services = () => {
               <div className="card p-3 ">
                 <div className="card-body text-center">
                     <i className="fa fa-file-code-o fa-4x mb-4 text-primary"></i>
-                  <h5 className="card-title mb-3 fs-4 fw-bold">Something</h5>
+                  <h5 className="card-title mb-3 fs-4 fw-bold">Business Optimization</h5>
                   <p className="card-text lead">
                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, neque?
                   </p>
@@ -76,7 +75,7 @@ const Services = () => {
               <div className="card p-3 ">
                 <div className="card-body text-center">
                     <i className="fa fa-star-half-o fa-4x mb-4 text-primary"></i>
-                  <h5 className="card-title mb-3 fs-4 fw-bold">Something</h5>
+                  <h5 className="card-title mb-3 fs-4 fw-bold">Audits</h5>
                   <p className="card-text lead">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae, porro!
                   </p>

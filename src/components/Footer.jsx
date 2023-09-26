@@ -8,77 +8,49 @@ const Footer = () => {
     <div>
       <footer className="footer text-white">
         <div className="container">
-          <footer className="py-5">
+          <footer className="py-2">
             <div className="row">
-              <div className="col-3">
-                <h4>Fahad Rajput <br />SP19-BSE-036 </h4>
+              <div className="col-3 m-auto">
+                <h4>Developed By <br />Fahad Rajput </h4>
               </div>
 
-              <div className="col-2">
-                <h5>Something</h5>
-                <ul className="nav flex-column">
+              <div className="col-2 m-auto">
+                <h5>Jump to</h5>
+                <ul className="nav flex-column ">
                   <li className="nav-item mb-2">
-                    <NavLink to="#" className="nav-link p-0 text-white">
-                    Something
+                    <NavLink to="/login" className="nav-link p-0 text-white">
+                    Login
                     </NavLink>
                   </li>
                   <li className="nav-item mb-2">
-                    <NavLink to="#" className="nav-link p-0 text-white">
-                    Something
+                    <NavLink to="/about" className="nav-link p-0 text-white">
+                    About
                     </NavLink>
                   </li>
-                  <li className="nav-item mb-2">
-                    <NavLink to="#" className="nav-link p-0 text-white">
-                    Something
-                    </NavLink>
-                  </li>
-                  <li className="nav-item mb-2">
-                    <NavLink to="#" className="nav-link p-0 text-white">
-                    Something
-                    </NavLink>
-                  </li>
-                  <li className="nav-item mb-2">
-                    <NavLink to="#" className="nav-link p-0 text-white">
-                    Something
-                    </NavLink>
-                  </li>
+                 
                 </ul>
               </div>
 
-              <div className="col-2">
-                <h5>Something</h5>
+              <div className="col-2 m-auto">
+                <h5>Get in Touch</h5>
                 <ul className="nav flex-column">
                   <li className="nav-item mb-2">
-                    <NavLink to="#" className="nav-link p-0 text-white">
-                    Something
+                    <NavLink to="/service" className="nav-link p-0 text-white">
+                    Services
                     </NavLink>
                   </li>
                   <li className="nav-item mb-2">
-                    <NavLink to="#" className="nav-link p-0 text-white">
-                    Something
+                    <NavLink to="/contact" className="nav-link p-0 text-white">
+                    Contact Us
                     </NavLink>
                   </li>
-                  <li className="nav-item mb-2">
-                    <NavLink to="#" className="nav-link p-0 text-white">
-                    Something
-                    </NavLink>
-                  </li>
-                  <li className="nav-item mb-2">
-                    <NavLink to="#" className="nav-link p-0 text-white">
-                    Something
-                    </NavLink>
-                  </li>
-                  <li className="nav-item mb-2">
-                    <NavLink to="#" className="nav-link p-0 text-white">
-                    Something
-                    </NavLink>
-                  </li>
+                  
                 </ul>
               </div>
 
               <div className="col-4 offset-1">
                 <form>
-                  <h5>Something</h5>
+                  <h5>Subcribe To Newsletter</h5>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, eum.</p>
                   <div className="d-flex w-100 gap-2">
                     <label htmlFor="newsletter1" className="visually-hidden">
@@ -102,7 +74,7 @@ const Footer = () => {
             </div>
 
             <div className="d-flex justify-content-between pt-4 mt-4 border-top">
-              <p>Submitted To : <br />M. Usman Akram </p>
+              <p>SimpleCorp : <br />Web Template </p>
               <ul className="list-unstyled d-flex">
                 <li className="ms-3">
                   <NavLink className="link-light" to="#">
