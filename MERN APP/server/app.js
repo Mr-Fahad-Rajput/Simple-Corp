@@ -14,7 +14,7 @@ app.get("*" , (req , res) => {
 });
 
 
-dotenv.config({path: './confiq.env'});
+dotenv.config({path: './config.env'});
 require('./database/connection');
 const port = 5000;
 
