@@ -1,9 +1,7 @@
 {
-  "homepage": "https://mr-fahad-rajput.github.io/MERN-Semester-Project/",
+  "homepage": "https://mr-fahad-rajput.github.io/MERN-Semester-Project",
   "name": "mernweb",
   "version": "0.1.0",
-  "private": true,
-  "proxy": "http://localhost:5000",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.1.1",
     "@testing-library/jest-dom": "^5.14.1",
