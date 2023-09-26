@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/MERN-Semester-Project/static/css/main.c1fb5dd7.chunk.css",
-    "main.js": "/MERN-Semester-Project/static/js/main.0d61a879.chunk.js",
-    "main.js.map": "/MERN-Semester-Project/static/js/main.0d61a879.chunk.js.map",
-    "runtime-main.js": "/MERN-Semester-Project/static/js/runtime-main.6cf853eb.js",
-    "runtime-main.js.map": "/MERN-Semester-Project/static/js/runtime-main.6cf853eb.js.map",
-    "static/css/2.39ebebac.chunk.css": "/MERN-Semester-Project/static/css/2.39ebebac.chunk.css",
-    "static/js/2.54281ff3.chunk.js": "/MERN-Semester-Project/static/js/2.54281ff3.chunk.js",
-    "static/js/2.54281ff3.chunk.js.map": "/MERN-Semester-Project/static/js/2.54281ff3.chunk.js.map",
-    "static/js/3.562757db.chunk.js": "/MERN-Semester-Project/static/js/3.562757db.chunk.js",
-    "static/js/3.562757db.chunk.js.map": "/MERN-Semester-Project/static/js/3.562757db.chunk.js.map",
-    "index.html": "/MERN-Semester-Project/index.html",
-    "static/css/2.39ebebac.chunk.css.map": "/MERN-Semester-Project/static/css/2.39ebebac.chunk.css.map",
-    "static/css/main.c1fb5dd7.chunk.css.map": "/MERN-Semester-Project/static/css/main.c1fb5dd7.chunk.css.map",
-    "static/js/2.54281ff3.chunk.js.LICENSE.txt": "/MERN-Semester-Project/static/js/2.54281ff3.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/MERN-Semester-Project/static/media/fontawesome-webfont.f691f37e.woff"
+    "main.css": "/MERN-Semester-Project/home/static/css/main.c1fb5dd7.chunk.css",
+    "main.js": "/MERN-Semester-Project/home/static/js/main.af42fb37.chunk.js",
+    "main.js.map": "/MERN-Semester-Project/home/static/js/main.af42fb37.chunk.js.map",
+    "runtime-main.js": "/MERN-Semester-Project/home/static/js/runtime-main.51edc876.js",
+    "runtime-main.js.map": "/MERN-Semester-Project/home/static/js/runtime-main.51edc876.js.map",
+    "static/css/2.fa42ce00.chunk.css": "/MERN-Semester-Project/home/static/css/2.fa42ce00.chunk.css",
+    "static/js/2.fb6c3f29.chunk.js": "/MERN-Semester-Project/home/static/js/2.fb6c3f29.chunk.js",
+    "static/js/2.fb6c3f29.chunk.js.map": "/MERN-Semester-Project/home/static/js/2.fb6c3f29.chunk.js.map",
+    "static/js/3.42315fc3.chunk.js": "/MERN-Semester-Project/home/static/js/3.42315fc3.chunk.js",
+    "static/js/3.42315fc3.chunk.js.map": "/MERN-Semester-Project/home/static/js/3.42315fc3.chunk.js.map",
+    "index.html": "/MERN-Semester-Project/home/index.html",
+    "static/css/2.fa42ce00.chunk.css.map": "/MERN-Semester-Project/home/static/css/2.fa42ce00.chunk.css.map",
+    "static/css/main.c1fb5dd7.chunk.css.map": "/MERN-Semester-Project/home/static/css/main.c1fb5dd7.chunk.css.map",
+    "static/js/2.fb6c3f29.chunk.js.LICENSE.txt": "/MERN-Semester-Project/home/static/js/2.fb6c3f29.chunk.js.LICENSE.txt",
+    "static/media/about1.57fcb240.jpg": "/MERN-Semester-Project/home/static/media/about1.57fcb240.jpg",
+    "static/media/contact.13b798d6.jpg": "/MERN-Semester-Project/home/static/media/contact.13b798d6.jpg",
+    "static/media/font-awesome.min.css": "/MERN-Semester-Project/home/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cf853eb.js",
-    "static/css/2.39ebebac.chunk.css",
-    "static/js/2.54281ff3.chunk.js",
+    "static/js/runtime-main.51edc876.js",
+    "static/css/2.fa42ce00.chunk.css",
+    "static/js/2.fb6c3f29.chunk.js",
     "static/css/main.c1fb5dd7.chunk.css",
-    "static/js/main.0d61a879.chunk.js"
+    "static/js/main.af42fb37.chunk.js"
   ]
 }
