@@ -12,6 +12,7 @@ import Dashboard from "./components/Dashboard";
 import Logout from "./components/Logout";
 import Protectedroute from "./ProtectedRoute";
 import { useEffect, useState } from "react";
+import { Redirect } from "react-router-dom/cjs/react-router-dom.min";
 
 function App() {
   // Check If User is Logged In
@@ -51,7 +52,6 @@ function App() {
       <Navbar auth={auth1} />
       <Switch>
         <Route exact path="/" component={Home} />
-        <Route exact path="/home" component={Home} />
         <Route exact path="/about" component={About} />
         <Route exact path="/service" component={Services} />
         <Route exact path="/contact" component={Contact} />
@@ -69,6 +69,7 @@ function App() {
           auth={auth}
         />
         <Protectedroute exact path="/logout" component={Logout} auth={auth} />
+        <Redirect to="/" />
       </Switch>
       <Footer />
     </>
