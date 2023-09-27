@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MERN-Semester-Project/static/css/main.c1fb5dd7.chunk.css",
-    "main.js": "/MERN-Semester-Project/static/js/main.59ed12f0.chunk.js",
-    "main.js.map": "/MERN-Semester-Project/static/js/main.59ed12f0.chunk.js.map",
+    "main.js": "/MERN-Semester-Project/static/js/main.f36d3691.chunk.js",
+    "main.js.map": "/MERN-Semester-Project/static/js/main.f36d3691.chunk.js.map",
     "runtime-main.js": "/MERN-Semester-Project/static/js/runtime-main.b1e6e974.js",
     "runtime-main.js.map": "/MERN-Semester-Project/static/js/runtime-main.b1e6e974.js.map",
     "static/css/2.39ebebac.chunk.css": "/MERN-Semester-Project/static/css/2.39ebebac.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.39ebebac.chunk.css",
     "static/js/2.fb6c3f29.chunk.js",
     "static/css/main.c1fb5dd7.chunk.css",
-    "static/js/main.59ed12f0.chunk.js"
+    "static/js/main.f36d3691.chunk.js"
   ]
 }
