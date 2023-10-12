@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Simple-Corp/static/css/main.c1fb5dd7.chunk.css",
+    "main.js": "/Simple-Corp/static/js/main.07e148cc.chunk.js",
+    "main.js.map": "/Simple-Corp/static/js/main.07e148cc.chunk.js.map",
+    "runtime-main.js": "/Simple-Corp/static/js/runtime-main.5c354cee.js",
+    "runtime-main.js.map": "/Simple-Corp/static/js/runtime-main.5c354cee.js.map",
+    "static/css/2.be8c3935.chunk.css": "/Simple-Corp/static/css/2.be8c3935.chunk.css",
+    "static/js/2.dee8340b.chunk.js": "/Simple-Corp/static/js/2.dee8340b.chunk.js",
+    "static/js/2.dee8340b.chunk.js.map": "/Simple-Corp/static/js/2.dee8340b.chunk.js.map",
+    "static/js/3.562757db.chunk.js": "/Simple-Corp/static/js/3.562757db.chunk.js",
+    "static/js/3.562757db.chunk.js.map": "/Simple-Corp/static/js/3.562757db.chunk.js.map",
+    "index.html": "/Simple-Corp/index.html",
+    "static/css/2.be8c3935.chunk.css.map": "/Simple-Corp/static/css/2.be8c3935.chunk.css.map",
+    "static/css/main.c1fb5dd7.chunk.css.map": "/Simple-Corp/static/css/main.c1fb5dd7.chunk.css.map",
+    "static/js/2.dee8340b.chunk.js.LICENSE.txt": "/Simple-Corp/static/js/2.dee8340b.chunk.js.LICENSE.txt",
+    "static/media/about1.57fcb240.jpg": "/Simple-Corp/static/media/about1.57fcb240.jpg",
+    "static/media/contact.13b798d6.jpg": "/Simple-Corp/static/media/contact.13b798d6.jpg",
+    "static/media/font-awesome.min.css": "/Simple-Corp/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c354cee.js",
+    "static/css/2.be8c3935.chunk.css",
+    "static/js/2.dee8340b.chunk.js",
+    "static/css/main.c1fb5dd7.chunk.css",
+    "static/js/main.07e148cc.chunk.js"
+  ]
+}
